@@ -4,7 +4,7 @@ This repository presents a critical review of deep-learning approaches to networ
 
 The project was prepared for the University of the Aegean course **Advanced Networking Topics** during the 2025–2026 academic year.
 
-![Presentation cover](docs/project-preview.png)
+![Presentation cover](project-preview.png)
 
 ## Repository contents
 
