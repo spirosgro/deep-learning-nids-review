@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this critical-review repository, please cite it using the metadata below."
+title: "Deep Learning for Network Intrusion Detection: A Critical Review"
+type: dataset
+version: 1.0.0
+date-released: 2026-05-01
+authors:
+  - family-names: Grouztidis
+    given-names: Spyridon
+  - family-names: Christaras
+    given-names: Ioakeim
+keywords:
+  - network intrusion detection
+  - deep learning
+  - cybersecurity
+  - federated learning
+  - literature review
+
